@@ -72,8 +72,8 @@ const DATA = [
   {
     id: '11', 
     title: '11. Fetching my siblings', 
-    color: '#FFC0CB', 
-    selectedColor: '#FF69B4'
+    color: '#FF69B4', 
+    selectedColor: '#FFC0CB'
   },
   {
     id: '12', 
@@ -96,7 +96,7 @@ const DATA = [
   {
     id: '15', 
     title: '15. Online gaming', 
-    color: '#FFFFE00', 
+    color: '#9F8C76', 
     selectedColor: '#FFD700'
   },
   {
@@ -114,8 +114,8 @@ const DATA = [
   {
     id: '18', 
     title: '18. Watching a movie', 
-    color: '#A9A9A9', 
-    selectedColor: '#FFFFFF'
+    color: '#Ffdfd3', 
+    selectedColor: '#A9A9A9'
   },
   {
     id: '19', 
@@ -132,13 +132,13 @@ const DATA = [
   {
     id: '21', 
     title: '21. Taking notes for tomorrow', 
-    color: '#ADD8E6', 
+    color: '#008080', 
     selectedColor: '#00008B'
   },
   {
     id: '22', 
     title: '22. Preparation of things for tomorrow', 
-    color: '#FFB6C1', 
+    color: '#ff00ff', 
     selectedColor: '#8B0000'
   },
   {
